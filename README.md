@@ -1,4 +1,4 @@
-# ml_app_script
+# Ml_App_Script
 - Bash script that creates virtual environment and installs numpy pandas matplotlib and streamlit
 
 #### Make executable
